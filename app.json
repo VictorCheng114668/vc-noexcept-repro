@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "vc-noexcept-repro",
+    "slug": "vc-noexcept-repro",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.example.vcnoexceptrepro",
+      "infoPlist": {
+        "NSCameraUsageDescription": "The repro needs a live frame stream to demonstrate the crash."
+      }
+    },
+    "newArchEnabled": true
+  }
+}
